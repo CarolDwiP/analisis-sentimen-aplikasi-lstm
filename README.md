@@ -18,7 +18,7 @@ Repositori ini berisi dokumentasi proyek analisis sentimen terhadap ulasan pengg
 ## 📂 Struktur File
 1. **1_scraping_data.ipynb**: Notebook untuk mengambil data ulasan menggunakan library `google-play-scraper`.
 2. **2_Training_Model.ipynb**: Notebook utama untuk preprocessing teks, pembangunan model, dan evaluasi.
-3. **dataset_sentimen.csv**: Data mentah hasil scraping.
+3. **dataset_mentah_playstore.csv**: Data mentah hasil scraping.
 
 ## 🛠️ Tahapan Pengerjaan
 
